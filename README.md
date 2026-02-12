@@ -18,3 +18,4 @@ correlation).
 Implementation Details: 
 ● Stack: Python (yfinance API for data) → NumPy (Core Mathematical Calculations) → Tableau (Dynamic Financial Visualization). 
 ● Key Resources: yfinance for robust API data retrieval; NumPy's capabilities for highspeed matrix multiplication (essential for Portfolio Variance calculations).
+ This is my Dashboard - https://public.tableau.com/views/AlphaPulse_VaR_Dashboard_twbx/Dashboard1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
